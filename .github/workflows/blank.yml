@@ -2,7 +2,7 @@
 name: must run on custom runner
 
 on: push
- jobs:
+jobs:
   init:
    runs-on: self-hosted
    steps: 
